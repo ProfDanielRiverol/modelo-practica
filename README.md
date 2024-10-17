@@ -14,4 +14,11 @@ Crea una página con una lista de libros, cada uno con un título y un botón "V
 
 ## Ejemplo:
 
-![Example](https://github.com/ProfDanielRiverol/modelo-practica/blob/27e43450ed9fe548ed8ebb091459cb63fdf795cb/template/template2.png)
+![Example](https://github.com/ProfDanielRiverol/modelo-practica/blob/2ebc591e1048a69883ab730a5b4b7f4397be8f25/template/templae2.png)
+
+## Consigna 3:
+
+Crea una página con una lista de productos (nombre y precio), representados como un array de objetos. Agrega un campo de entrada y un botón que permita filtrar los productos por nombre. Al ingresar texto y presionar el botón, solo se deben mostrar los productos cuyo nombre contenga el texto ingresado.
+## Ejemplo:
+
+![Example](https://github.com/ProfDanielRiverol/modelo-practica/blob/2ebc591e1048a69883ab730a5b4b7f4397be8f25/template/templae2.png)
